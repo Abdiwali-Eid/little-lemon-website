@@ -12,7 +12,7 @@ const Dhex = () => {
     <div>
         
         <div className="dhexda" >
-   <div className="qorals">
+   <div className="qorals" style={{alignItems: 'center'}}>
    <h1 style={{ fontWeight:'700',fontSize:'56',color:'#F4CE14'}}>Little Lemon <span>Chicago</span></h1> <br />
     
     <p style={{fontSize:'22px'}}>We are a family owned
