@@ -20,8 +20,8 @@ const Footer = () => {
       </div>
       <div className="contact" style={{paddingTop:'15px'}}>
         <h1>Contact</h1>
-        <p>Chicako 2001 road</p><br />
-        <p>(629)-243-6827</p><br />
+        <p>Muqdisho jidka 30-ka</p><br />
+        <p>+252 61 9779420</p><br />
         <p>littleLemon@gmail.com</p>
       </div>
       <div className="icons" style={{paddingTop:'15px'}}>
